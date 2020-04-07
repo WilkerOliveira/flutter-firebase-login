@@ -1,6 +1,10 @@
 # Flutter Firebase login
 
-Firebase login: Email and Password, Google and Facebook using Flutter
+ - Login with Email and Password 
+ - Register new login (with email confirmation)
+ - Password recovery
+ - Login using Google
+ - Login using Facebook
 
 Notes:
  - Execute this commands:
