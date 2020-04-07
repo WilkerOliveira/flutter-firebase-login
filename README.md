@@ -9,7 +9,9 @@ Notes:
   
  - You need to create and configure your own Firebase account. 
  
- - In this project we are using [Flutter Mobx] (https://pub.dev/packages/flutter_mobx) and [Flutter Modular] (https://pub.dev/packages/flutter_modular);
+ - In this project we are using:
+   - [Flutter Mobx](https://pub.dev/packages/flutter_mobx)
+   - [Flutter Modular](https://pub.dev/packages/flutter_modular);
 
 ## Getting Started
 
