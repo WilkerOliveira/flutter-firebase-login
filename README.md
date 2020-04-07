@@ -8,6 +8,8 @@ Notes:
    - To create the strings: flutter pub run gen_lang:generate
   
  - You need to create and configure your own Firebase account. 
+ 
+ - In this project we are using Mobx with Flutter Modular;
 
 ## Getting Started
 
