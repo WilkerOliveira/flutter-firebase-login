@@ -1,4 +1,4 @@
-# Firebase login
+# Flutter Firebase login
 
 Firebase login: Email and Password, Google and Facebook using Flutter
 
