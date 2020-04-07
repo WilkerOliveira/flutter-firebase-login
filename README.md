@@ -1,6 +1,13 @@
-# summarizeddebts
+# Firebase login
 
-Debt summary for easy management
+Firebase login: Email and Password, Google and Facebook using Flutter
+
+Notes:
+ - Execute this commands:
+  - To create the part classes: flutter pub run build_runner watch --delete-conflicting-outputs
+  - To create the strings: flutter pub run gen_lang:generate
+  
+ - You need to create and configure your own Firebase account. 
 
 ## Getting Started
 
